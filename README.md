@@ -39,7 +39,7 @@ From 1994 until transitioning to my new role, I’ve worked at GWU in various sy
 <img src="/assets/certs/github-administration.png" alt="GitHub Administration" width="104" height="104">
 </a>
 <a href="https://he.net/certifications">
-<img src="/assets/certs/ipv6-hurricane-electric.png" alt="HE ipv6">
+<img src="/assets/certs/ipv6-hurricane-electric.png" alt="HE ipv6" width="174" height="104">
 </a>
 
 **Skills**
